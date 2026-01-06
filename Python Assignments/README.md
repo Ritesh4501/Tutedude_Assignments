@@ -4,7 +4,7 @@ This repository contains my completed assignments for the **Python Basic Concept
 
 ---
 
-## 📂 Module 2: Basic Python Concepts
+## 📂 Assignment 1: Basic Python Concepts
 
 ### 1. Task 1: Basic Mathematical Operations
 * **File:** `task1.py`
