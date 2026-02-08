@@ -26,6 +26,16 @@ This repository contains my completed assignments for the **Python Basic Concept
 * **Description:** This program uses a for loop to iterate through numbers from 1 to 50. It calculates the cumulative sum of all integers in that range and displays the final result (1275).
 
 ---
+## 📂 Assignment 3: Functions & Modules in Python
+
+### 1. Task 1: Calculate Factorial Using a Function
+* **File:** `task5.py`
+* **Description:** Defines a custom function `factorial()` that uses a loop to calculate the factorial of a given number.
+
+### 2. Task 2: Using the Math Module for Calculations
+* **File:** `task6.py`
+* **Description:** Demonstrates the use of the Python `math` module to find the square root, natural logarithm, and sine of a user-provided number.
+---
 
 ## 🚀 How to Run the Programs
 Ensure you have Python installed on your system. Run the following commands in your terminal:
@@ -41,4 +51,10 @@ python task2.py
 python task3.py
 
 # To run Task 4: Sum of Integers from 1 to 50 Using a Loop
+python task4.py
+
+# To run Task 5: Calculate Factorial Using a Function
+python task4.py
+
+# To run Task 6: Using the Math Module for Calculations
 python task4.py
